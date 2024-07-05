@@ -1,10 +1,9 @@
 import React from "react";
 import '../components/assets/css/animate.css';
-import '/home/hp/Documents/tale/src/components/assets/css/flex-slider.css';
-import '/home/hp/Documents/tale/src/components/assets/css/flex-slider.css';
-import '/home/hp/Documents/tale/src/components/assets/css/fontawesome.css';
-import '/home/hp/Documents/tale/src/components/assets/css/owl.css';
-import '/home/hp/Documents/tale/src/components/assets/css/templatemo-tale-seo-agency.css';
+import '../components/assets/css/flex-slider.css';
+import '../components/assets/css/fontawesome.css';
+import '../components/assets/css/owl.css';
+import '../components/assets/css/templatemo-tale-seo-agency.css';
 import image2 from "../components/assets/images/about-us-image.jpg";
 import image3 from "../components/assets/images/video-thumb.jpg";
 import image4 from "../components/assets/images/happyclient-01.jpg";
